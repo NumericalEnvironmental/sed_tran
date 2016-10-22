@@ -1,0 +1,16 @@
+num_cells	6
+w	67.
+hw	3
+elev_w	23
+dt	10000
+t_max	4730400000
+t_output_profile	4730400000
+t_output_timeseries	4000000
+num_sed_layers	2000
+mixing_depth	0.05
+flux_mode	1
+log_min_Q	0.891234
+log_max_Q	2.240014
+log_avg_Q	1.565623756
+log_stdev_Q	0.41
+dt_Q	1000000
